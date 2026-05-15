@@ -1,0 +1,3 @@
+- water: waves, still with drops, rain, fog
+- air: light-shadows (from the trees, sunset blaze), dust
+- earth: sand
